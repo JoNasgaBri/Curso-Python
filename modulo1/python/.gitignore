@@ -1,0 +1,16 @@
+
+.venv/
+__pycache__/
+*.pyc
+
+docs/_build/
+
+
+app.log
+
+
+*.vscode/
+*.idea/
+
+
+.DS_Store
