@@ -1,6 +1,6 @@
 # 🐍 Curso: Boas Práticas de Desenvolvimento em Python
 
-Um repositório completo para aprender **reutilização de código** e **boas práticas** em Python, baseado no curso ministrado pelo **Professor Tharwell Gomes**.
+Um repositório completo para aprender **reutilização de código** e **boas práticas** em Python, baseado no curso ministrado pelo **Professor Maxwell Gomes**.
 
 ## 📚 Sobre o Curso
 
@@ -136,7 +136,7 @@ Este é um repositório educacional pessoal. Sinta-se à vontade para:
 
 ## 👨‍🏫 Professor
 
-**Tharwell Gomes** - Instrutor do curso
+**Maxwell Gomes** - Instrutor do curso
 
 ## 📄 Licença
 
