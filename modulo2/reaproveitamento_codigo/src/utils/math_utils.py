@@ -17,6 +17,7 @@ def potencia(base: float, expoente: float = 2) -> float:
     return base**expoente
 
 
+
 def aplicar_funcao(funcao, valores: list) -> list:
     """Aplica uma função a uma lista de valores."""
     return [funcao(x) for x in valores]
