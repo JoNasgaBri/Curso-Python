@@ -53,7 +53,7 @@ Siga este exemplo para modularização  de seu projeto
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/boas-praticas-python.git
+git clone https://github.com/JoNasgaBri/Curso-Python.git
 cd boas-praticas-python
 
 # Crie um ambiente virtual
