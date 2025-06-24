@@ -1,0 +1,18 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Pastas de cache do pytest e mypy
+.pytest_cache/
+.mypy_cache/
+
+# Arquivo de log gerado
+app.log
+
+# Documentação gerada pelo Sphinx
+docs/_build/
+
+# IDEs e editores
+*.vscode/
+*.idea/
